@@ -1,28 +1,28 @@
 body {
-    background-color: # 000000;
-    text-align :center;
-    font-family : Verdana,Geneva,Tahoma,sans-serif;
+    background-color:# 000000;
+    text-align:center;
+    font-family:Verdana,Geneva,Tahoma,sans-serif;
 }
 .header--main{
 font-weight:normal;
-font-size: 50px;
-color: #ffffff;
+font-size:50px;
+color:#ffffff;
 }
 .header--secondary{
-    color:#ffffff
+    color:#ffffff;
     font-weight:300;
     font-size:42px;
 }
 .header--subheader{
-    font-size: 21px;
-    color :grey;
+    font-size:21px;
+    color:grey;
 }
 .link--cta{
-font-size: 16px;
-color : aquamarine;
+font-size:16px;
+color: aquamarine;
 }
 .footer--copyright{
-font-size :21px;
+font-size:21px;
 color:grey;
-text-align: right;
+text-align:right;
 }
